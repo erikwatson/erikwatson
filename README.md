@@ -1,6 +1,6 @@
 ### Hey, I'm Erik.
 
-I am a professional Web Programmer and a hobbyist Indie Game Developer.
+I am a professional Web Programmer and a hobbyist Indie Game Developer from Wales, in the UK - Cymru am byth! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 You can [read more about me](http://erikwatson.me) and my work on my website. 
 
