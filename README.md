@@ -2,7 +2,7 @@
 
 I am a professional Web Programmer and a hobbyist Indie Game Developer from Wales, in the UK - Cymru am byth! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-I'm Currently looking for work, so please do [get in touch](mailto:erik@erikwatson.me) if you think you could use me. 
+I'm currently looking for work, so please do [get in touch](mailto:erik@erikwatson.me) if you think you could use me. 
 
 You can [read more about me](http://erikwatson.me) and my work on my website. 
 
