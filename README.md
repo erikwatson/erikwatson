@@ -1,9 +1,23 @@
 ### Hey, I'm Erik.
 
-I am a professional Web Developer and a hobbyist Indie Game Developer from Wales, in the UK - Cymru am byth! 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+I'm a professional Web developer and a hobbyist Video Game developer from mid Wales. You can [read more about me](http://erikwatson.me) and my work on my website. 
 
-If you know me at all, it's probably for making [Sky Panda](https://bumblebirds.itch.io/sky-panda) or [Velocity Wings](https://bumblebirds.itch.io/velocity-wings).
+The following is a small, incomplete list of my most important personal projects.
 
-You can [read more about me](http://erikwatson.me) and my work on my website. 
 
-My Video Games are made with the help of my brother, we release them under the name BumbleBirds. [You can check them out here.](http://bumblebirds.com)
+#### Games 
+
+  - [Sky Panda](https://bumblebirds.itch.io/sky-panda) - 30 levels of adorable, but challenging panda platforming
+  - [Velocity Wings](https://bumblebirds.itch.io/velocity-wings) - What if Flappy Bird was based on Sonic instead of Mario? 
+
+
+#### Tools 
+
+  - [Bramble]() - A javascript library to help create small browser based games 
+  - [Level Editor]() - An optional editor to create Bramble games 
+  - [Snowfall]() - A snow effect for websites with a visual config editor 
+
+
+#### Web
+
+  - [Banlist]() - Coming soon 
