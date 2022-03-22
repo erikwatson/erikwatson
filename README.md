@@ -13,11 +13,11 @@ The following is a small, incomplete list of my most important personal projects
 
 #### Tools 
 
-  - [Bramble]() - A javascript library to help create small browser based games 
-  - [Level Editor]() - An optional editor to create Bramble games 
-  - [Snowfall]() - A snow effect for websites with a visual config editor 
+  - [Bramble](https://github.com/erikwatson/Bramble) - A javascript library to help create small browser based games 
+  - [Level Editor](https://github.com/erikwatson/Level-Editor) - An optional editor to create Bramble games 
+  - [Snowfall](https://github.com/erikwatson/snowfall.js) - A snow effect for websites with a visual config editor 
 
 
 #### Web
 
-  - [Banlist]() - Coming soon 
+  - [Banlist](https://banlist.net) - Coming soon 
