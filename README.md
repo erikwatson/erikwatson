@@ -1,8 +1,11 @@
 ### Hey, I'm Erik.
 
-I'm a professional Web developer and a hobbyist Video Game developer from mid Wales. You can [read more about me](http://erikwatson.me) and my work on my website. 
+I'm a professional Web developer and a hobbyist Video Game developer from mid Wales. 
 
-The following is a small, incomplete list of my most important personal projects.
+Currently employed, developing the [Contensis](https://www.contensis.com/) CMS (Content Management System) with [Zengenti](https://www.zengenti.com/). 
+
+You can read more about me and my work on [my website](http://erikwatson.me). 
+
 
 
 #### Games 
