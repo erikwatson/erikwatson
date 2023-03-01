@@ -2,8 +2,6 @@
 
 I'm a professional Web developer and a hobbyist Video Game developer from mid Wales. 
 
-Currently employed, developing the [Contensis](https://www.contensis.com/) CMS (Content Management System) with [Zengenti](https://www.zengenti.com/). 
-
 You can read more about me and my work on [my website](http://erikwatson.me). 
 
 
