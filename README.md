@@ -19,6 +19,3 @@ You can read more about me and my work on [my website](http://erikwatson.me).
   - [Snowfall](https://github.com/erikwatson/snowfall.js) - A snow effect for websites with a visual config editor 
 
 
-#### Web
-
-  - [Banlist](https://banlist.net) - Coming soon 
