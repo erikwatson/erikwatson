@@ -16,6 +16,6 @@ You can read more about me and my work on [my website](http://erikwatson.me).
 
   - [Bramble](https://github.com/erikwatson/Bramble) - A javascript library to help create small browser based games 
   - [Level Editor](https://github.com/erikwatson/Level-Editor) - An optional editor to create Bramble games 
-  - [Snowfall](https://github.com/erikwatson/snowfall.js) - A snow effect for websites with a visual config editor 
+  - [Snowfall](https://github.com/erikwatson/snowfall.js) - A snow effect for websites with a [visual config editor](https://erikwatson.github.io/snowfall-editor/) 
 
 
