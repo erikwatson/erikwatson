@@ -5,17 +5,15 @@ I'm a professional Web developer and a hobbyist Video Game developer from mid Wa
 You can read more about me and my work on [my website](http://erikwatson.me). 
 
 
-
 #### Games 
 
-  - [Sky Panda](https://bumblebirds.itch.io/sky-panda) - 30 levels of adorable, but challenging panda platforming
-  - [Velocity Wings](https://bumblebirds.itch.io/velocity-wings) - What if Flappy Bird was based on Sonic instead of Mario? 
+  - [Sky Panda](https://bumblebirds.itch.io/sky-panda) - 30 levels of adorable, but extremely challenging panda platforming. High effort. 
+  - [Velocity Wings](https://bumblebirds.itch.io/velocity-wings) - What if Flappy Bird was based on Sonic instead of Mario? Surprisingly popular game jam game. 
 
 
 #### Tools 
 
-  - [Bramble](https://github.com/erikwatson/Bramble) - A javascript library to help create small browser based games 
-  - [Level Editor](https://github.com/erikwatson/Level-Editor) - An optional editor to create Bramble games 
-  - [Snowfall](https://github.com/erikwatson/snowfall.js) - A snow effect for websites with a [visual config editor](https://erikwatson.github.io/snowfall-editor/) 
-
-
+  - [Snowfall](https://github.com/erikwatson/snowfall.js) - A highly configurable and beautiful snow effect.
+  - [Snowfall Editor](https://erikwatson.github.io/snowfall-editor/) - An editor to help you easily create custom snow effects in Snowfall.  
+  - [Bramble](https://github.com/erikwatson/Bramble) - A creative coding library. 
+  
